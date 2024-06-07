@@ -40,6 +40,13 @@ bilibili视频教程链接：[bilibili: https://space.bilibili.com/1532780812](h
 
 ### 🎈🎈改进目录一览
 
+关于 Loss 相关改进网络结构目录 : [YOLOv10损失函数 Loss 改进](https://www.yuque.com/mangguoai-oaad7/iw6r7k/zzgwd9t5wzyqvog9)
+
+关于 Head 相关改进网络结构目录 : [YOLOv10新颖检测头 Head 改进](https://www.yuque.com/mangguoai-oaad7/iw6r7k/qllhf39dxwgxr6h0)
+
+关于 Neck 相关改进网络结构目录 : [YOLOv10特征融合 Neck 改进](https://www.yuque.com/mangguoai-oaad7/iw6r7k/kyb2hlfxtwxksrp8)
+
+关于 Backbone 相关改进网络结构目录 : [YOLOv10主干 Backbone 改进](https://www.yuque.com/mangguoai-oaad7/iw6r7k/ktrylwcv4h7fxnag)
 
 
 ### 🏅️🏅️订阅说明
