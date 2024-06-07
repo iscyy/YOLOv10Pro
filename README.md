@@ -38,7 +38,7 @@ bilibili视频教程链接：[bilibili: https://space.bilibili.com/1532780812](h
 ---
 
 
-### 🎈🎈改进目录一览
+### 🎈🎈YOLOv10Pro项目 改进内容目录一览
 
 关于 Loss 相关改进网络结构目录 : [YOLOv10损失函数 Loss 改进](https://www.yuque.com/mangguoai-oaad7/iw6r7k/zzgwd9t5wzyqvog9)
 
